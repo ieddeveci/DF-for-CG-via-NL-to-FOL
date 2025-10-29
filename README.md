@@ -1,4 +1,4 @@
-# Transformer Models for Translating Natural Language Sentences into Formal Logical Expressions
+# A Diagnostic Framework for Compositional Generalization via NL-to-FOL Translation
 
 This repository contains the resources supporting the evaluation framework for neural semantic parsing from Natural Language to First-Order Logic (NL-to-FOL), to be presented at the **Student Session of the 36th European Summer School in Logic, Language and Information (ESSLLI 2025)**.
 
