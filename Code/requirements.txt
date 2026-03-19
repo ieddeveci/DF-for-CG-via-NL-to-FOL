@@ -1,6 +1,8 @@
-transformers
-torch
-datasets
-scikit-learn
-pandas
 nltk
+pandas
+numpy
+scikit-learn
+datasets
+torch
+tqdm
+transformers
