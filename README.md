@@ -6,7 +6,7 @@ This repository contains the resources supporting the evaluation framework for n
 
 ## Contents
 
-- **Datasets:** WillowNLtoFOL and WillowNLtoFOL_extended datasets designed to test compositional generalization in semantic parsing  
+- **Datasets:** `WillowNLtoFOL` and `WillowNLtoFOL_extended` datasets designed to test compositional generalization in semantic parsing. The structured datasets are also available on **[Hugging Face](https://huggingface.co/datasets/iedeveci/WillowNLtoFOL)**.  
 - **Code:** Training scripts and evaluation tools implementing the metrics proposed in the article, enabling reproducible experiments
 
 ## Purpose
