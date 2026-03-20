@@ -15,5 +15,5 @@ This project provides a systematic and automated evaluation framework for assess
 
 ## License
 
-- **Article and textual content:** Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
