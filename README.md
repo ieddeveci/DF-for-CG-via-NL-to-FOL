@@ -19,7 +19,7 @@ This project provides a systematic and automated evaluation framework for assess
 
 ## Citation
 
-Plain Text: Deveci, İ. E. (2024). Transformer models for translating natural language sentences into formal logical expressions [M.S. - Master of Science]. Middle East Technical University.
+Deveci, İ. E. (2024). Transformer models for translating natural language sentences into formal logical expressions [M.S. - Master of Science]. Middle East Technical University.
 Available at: https://open.metu.edu.tr/handle/11511/109445
 
 If you use this repository or datasets in your research, please cite the accompanying master's thesis:
