@@ -15,8 +15,11 @@ This project provides a systematic and automated evaluation framework for assess
 
 ## Citation
 If you use this repository or the accompanying dataset in your research, please cite the following work.
-Deveci, İ.E. (2026). A Diagnostic Framework for Compositional Generalization via NL-to-FOL Translation. Journal of Logic, Language and Information. https://doi.org/10.1007/s10849-026-09480-0
 
+Deveci, İ.E. (2026). A Diagnostic Framework for Compositional Generalization via NL-to-FOL Translation. *Journal of Logic, Language and Information*. https://doi.org/10.1007/s10849-026-09480-0
+
+**BibTeX:**
+```bibtex
 @article{deveci_2026,
   author       = {Deveci, İbrahim Ethem},
   title        = {A Diagnostic Framework for Compositional Generalization via {NL}-to-{FOL} Translation},
@@ -27,6 +30,7 @@ Deveci, İ.E. (2026). A Diagnostic Framework for Compositional Generalization vi
   doi          = {10.1007/s10849-026-09480-0},
   url          = {https://doi.org/10.1007/s10849-026-09480-0}
 }
+```
 
 ## License
 
